@@ -153,7 +153,6 @@
             do pedido pelo css -->
             ```
             
-
 - **CSS ATTRIBUTE SELECTORS**
     - [attribute]
         
