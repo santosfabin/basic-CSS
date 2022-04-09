@@ -345,7 +345,7 @@
         
         | Selector | Example | Example description |
         | --- | --- | --- |
-        | [attribute|=value] | [lang|=en] | Seleciona todos os elementos com um valor de atributo lang começando com "en” |
+        | [attribute│=value] | [lang│=en] | Seleciona todos os elementos com um valor de atributo lang começando com "en” |
         | “ | “ | Selects all elements with a lang attribute value starting with "en" |
         1. Seleciona APENAS os elementos que comece com “en” em seu atributo
             1. ou seja todos os atributos que comecem com “en” serão selecionados
